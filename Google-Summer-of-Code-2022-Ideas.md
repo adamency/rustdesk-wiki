@@ -11,9 +11,3 @@ Resources:
  - Discuss on Wayland support: https://github.com/rustdesk/rustdesk/issues/56
  - Initial job done for Wayland, only screen capture: https://github.com/rustdesk/rustdesk/tree/master/libs/scrap/src/wayland
 
-## Find Us
-
-<a href="https://t.me/rustdesk1116" alt="Telegram">Telegram</a>
-
-<a href="https://discord.com/invite/nDceKgxnkV" alt="Discord">Discord</a>
-
