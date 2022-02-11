@@ -15,3 +15,14 @@ Resources:
  - Discuss on Wayland support: https://github.com/rustdesk/rustdesk/issues/56
  - Initial job done for Wayland, only screen capture: https://github.com/rustdesk/rustdesk/tree/master/libs/scrap/src/wayland
 
+### Migrate UI from Sciter to Tauri
+
+Skills: Rust, Javascript
+
+Description:
+RustDesk chose Sciter as its Desktop UI SDK. As Tauri turns to be stable, it is time to switch to a more elegant UI SDK.
+
+Resources:
+ - Tauri project: https://github.com/tauri-apps/tauri
+ - What is Sciter?: https://sciter.com/
+
