@@ -27,3 +27,12 @@ Resources:
  - What is Sciter?: https://sciter.com/
  - Multiple windows issue: https://github.com/rustdesk/rustdesk/issues/293
 
+### Whiteboard
+
+Skills: Rust, Windows/Linux/Mac
+
+Description: Whiteboard is additional collaboration tool while sharing desktop.
+
+Resources:
+ - Whiteboard in AnyDesk: https://anydesk.com/uk/features/whiteboard
+
