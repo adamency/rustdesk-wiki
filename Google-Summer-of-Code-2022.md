@@ -16,7 +16,7 @@ First of all, and if you have not done that yet, read [How it Works](https://sum
 
 This is a required step unless you have dived in into the existing codebase and understood everything perfectly (very hard) and the idea you prefer is on the list below.
 
-If your idea is not listed, please discuss it with the mentors in the available [contact channels](Google Summer of Code 2022). We're always open to new ideas and won't hesitate on choosing them if you demonstrate to be a good candidate!  
+If your idea is not listed, please discuss it with the mentors in the available [contact channels](https://github.com/rustdesk/rustdesk/wiki/Google-Summer-of-Code-2022#find-us). We're always open to new ideas and won't hesitate on choosing them if you demonstrate to be a good candidate!  
   
 #### 2. Understand that
 
