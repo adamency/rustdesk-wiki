@@ -20,7 +20,7 @@ Resources:
 Skills: Rust, Javascript
 
 Description:
-RustDesk chose Sciter as its Desktop UI SDK. As Tauri turns to be stable, it is time to switch to a more elegant UI SDK. Current RustDesk UI is based on TIScript+html+css, TIScript is a modified version of Javascript. After migration, we will switch to multiple windows mode to have better OS taskbar integration.
+RustDesk chose Sciter as its Desktop UI SDK. As Tauri turns to be stable, it is time to switch to a more elegant UI SDK. Current RustDesk UI is based on TIScript+html+css, TIScript is a modified version of Javascript. After migration, RustDesk will switch to multiple windows mode to have better OS taskbar integration.
 
 Resources:
  - Tauri project: https://github.com/tauri-apps/tauri
