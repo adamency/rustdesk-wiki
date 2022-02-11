@@ -1,3 +1,7 @@
+RustDesk project would like to participate in Google Summer of Code 2022.
+
+https://github.com/rustdesk/rustdesk/wiki/Google-Summer-of-Code-2021
+
 ## Project Ideas
 
 ### Wayland Support
