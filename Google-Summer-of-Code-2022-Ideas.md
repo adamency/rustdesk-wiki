@@ -9,7 +9,7 @@ https://github.com/rustdesk/rustdesk/wiki/Google-Summer-of-Code-2021
 Skills: Rust, C/C++, Linux
 
 Description:
-RustDesk support X11 on Linux, but does not support Wayland yet. Wayland has totally different API for screen capture and keyboard/mouse input. Wayland has strict permission control, you can only capture screen under the user session. A permission dialog will pop up once you initiates screen capture, this causes big problem for remote control scenario.
+RustDesk support X11 on Linux, but does not support Wayland yet. Wayland has totally different API for screen capturing and keyboard/mouse input. Wayland has strict permission control, you can only capture screen under the user session. A permission dialog will pop up once you initiates screen capturing, this causes big problem for remote control scenario.
 
 Resources:
  - Discuss on Wayland support: https://github.com/rustdesk/rustdesk/issues/56
