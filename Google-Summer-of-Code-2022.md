@@ -1,4 +1,3 @@
-# Google Summer of Code 2022
 List of project ideas for contributors applying to the Google Summer of Code program in 2022 (GSoC 2022).
 
 ## Timeline
