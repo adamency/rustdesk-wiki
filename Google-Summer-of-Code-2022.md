@@ -30,3 +30,9 @@ We recommend you to follow [Google's guide to Writing a Proposal](https://google
 You can send the proposal link to any readable format you wish: Google Docs, plain text, in markdown... and preferably hosted online, accessible with a common browser **without downloading anything locally**.
 
 You can also ask for a review anytime to the community or mentor candidates before the student application deadline. It's much easier if you get feedback early than to wait for the last moment.
+
+## Find Us
+
+<a href="https://t.me/rustdesk1116" alt="Telegram">Telegram</a>
+
+<a href="https://discord.com/invite/nDceKgxnkV" alt="Discord">Discord</a>
