@@ -13,7 +13,7 @@ RustDesk support X11 on Linux, but does not support Wayland yet. Wayland has tot
 
 Resources:
  - Discuss on Wayland support: https://github.com/rustdesk/rustdesk/issues/56
- - Initial job done for Wayland, only screen capture: https://github.com/rustdesk/rustdesk/tree/master/libs/scrap/src/wayland
+ - Initial job done for Wayland, only screen capturing: https://github.com/rustdesk/rustdesk/tree/master/libs/scrap/src/wayland
 
 ### Migrate UI from Sciter to Tauri
 
