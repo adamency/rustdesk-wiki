@@ -31,7 +31,7 @@ Resources:
 
 Skills: Rust, Windows/Linux/Mac
 
-Description: Whiteboard is additional collaboration tool while sharing desktop, which let users write or draw freely on computer screen during presentations
+Description: Whiteboard is additional collaboration tool while sharing desktop, which enables users write or draw freely on computer screen during presentations
 
 Resources:
  - Whiteboard in AnyDesk: https://anydesk.com/uk/features/whiteboard
