@@ -25,4 +25,5 @@ RustDesk chose Sciter as its Desktop UI SDK. As Tauri turns to be stable, it is 
 Resources:
  - Tauri project: https://github.com/tauri-apps/tauri
  - What is Sciter?: https://sciter.com/
+ - Multiple windows issue: https://github.com/rustdesk/rustdesk/issues/293
 
