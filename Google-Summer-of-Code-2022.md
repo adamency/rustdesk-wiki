@@ -31,6 +31,10 @@ You can send the proposal link to any readable format you wish: Google Docs, pla
 
 You can also ask for a review anytime to the community or mentor candidates before the student application deadline. It's much easier if you get feedback early than to wait for the last moment.
 
+## Project Ideas
+
+https://github.com/rustdesk/rustdesk/wiki/Google-Summer-of-Code-2022-Ideas
+
 ## Find Us
 
 <a href="https://t.me/rustdesk1116" alt="Telegram">Telegram</a>
