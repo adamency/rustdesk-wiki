@@ -36,3 +36,13 @@ Description: Whiteboard is additional collaboration tool while sharing desktop, 
 Resources:
  - Whiteboard in AnyDesk: https://anydesk.com/uk/features/whiteboard
 
+
+### Recoverable file transfer
+
+Skills: Rust, Javascript
+
+Description: Current file transfer stops after disconnection or window being closed. This new feature make file transfer jobs can be manually paused and recoverable.
+
+Resources:
+ - Related issue: https://github.com/rustdesk/rustdesk/issues/358
+
