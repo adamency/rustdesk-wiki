@@ -15,6 +15,8 @@ Resources:
  - Discuss on Wayland support: https://github.com/rustdesk/rustdesk/issues/56
  - Initial job done for Wayland, only screen capturing: https://github.com/rustdesk/rustdesk/tree/master/libs/scrap/src/wayland
 
+Rating: Hard
+
 ### Migrate UI from Sciter to Tauri
 
 Skills: Rust, Javascript
@@ -27,6 +29,8 @@ Resources:
  - What is Sciter?: https://sciter.com/
  - Multiple windows issue: https://github.com/rustdesk/rustdesk/issues/293
 
+Rating: Medium
+
 ### Whiteboard
 
 Skills: Rust, Windows/Linux/Mac
@@ -35,6 +39,8 @@ Description: Whiteboard is additional collaboration tool while sharing desktop, 
 
 Resources:
  - Whiteboard in AnyDesk: https://anydesk.com/uk/features/whiteboard
+
+Rating: Hard
 
 
 ### Recoverable file transfer
@@ -45,4 +51,6 @@ Description: Current file transfer stops after disconnection or window being clo
 
 Resources:
  - Related issue: https://github.com/rustdesk/rustdesk/issues/358
+
+Rating: Easy
 
