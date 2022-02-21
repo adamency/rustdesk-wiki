@@ -39,5 +39,6 @@ Description: Whiteboard is additional collaboration tool while sharing desktop, 
 
 Resources:
  - Whiteboard in AnyDesk: https://anydesk.com/uk/features/whiteboard
+ - https://github.com/netless-io/flat
 
 Rating: Hard
