@@ -29,7 +29,7 @@ Resources:
  - What is Sciter?: https://sciter.com/
  - Multiple windows issue: https://github.com/rustdesk/rustdesk/issues/293
 
-Rating: Medium
+Rating: Hard
 
 ### Whiteboard
 
