@@ -88,7 +88,7 @@ Outcome: Users can copy/paste file between local side and remote side on Linux a
 
 Rating: Hard
 
-Size: 365 hours
+Size: 350 hours
 
 Mentor: [Dragon Chen](https://github.com/fufesou) RustDesk member
 
