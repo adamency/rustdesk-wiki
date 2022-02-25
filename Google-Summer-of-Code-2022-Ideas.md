@@ -80,7 +80,7 @@ Mentor: [Carrie Chow](https://github.com/rustdesk) RustDesk author
 
 ### Copy/Paste file on Linux and Mac
 
-Skills: Rust, Linux/Mac
+Skills: Rust, C/C++, ObjC, Linux/Mac
 
 Description: RustDesk has file copy/paste support under Windows. User can copy file on one side and then paste it on the other side. Current windows implementation is based on FreeRDP.
 
