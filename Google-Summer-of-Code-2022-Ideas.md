@@ -69,7 +69,8 @@ Description: RustDesk is using TCP hole punching for P2P connection. As we know,
 
 Outcome: P2P connection over UDP.
 
-Resources: Practical solution: https://github.com/Matrix-Zhang/tokio_kcp
+Resources:
+- Practical solution: https://github.com/Matrix-Zhang/tokio_kcp
 
 Rating: Medium
 
