@@ -67,6 +67,8 @@ Skills: Rust, TCP/IP
 
 Description: RustDesk is using TCP hole punching for P2P connection. As we know, QUIC runs over UDP and not TCP, UDP is faster, simpler, and more efficient than TCP. RustDesk seeks to support UDP hole punching for better performance under weak network scenario.
 
+Outcome: P2P connection over UDP.
+
 Rating: Medium
 
 Size: 175 hours
