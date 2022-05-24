@@ -18,3 +18,6 @@
  - [@Kingtous](https://github.com/Kingtous)
 - [ ] Remote Window Draft Version - deadline 2022-05-30
  - [@SoLongAndThanksForAllThePizza](https://github.com/SoLongAndThanksForAllThePizza)
+- [ ] File Transfer Window
+- [ ] CM Window
+- [ ] Port Forwarding Window
