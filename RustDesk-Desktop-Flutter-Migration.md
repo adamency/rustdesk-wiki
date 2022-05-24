@@ -1,6 +1,7 @@
 - [x] Solution
  - TeamViewer style tab window, each window with a seperate flutter engine.
  - Command line and Window mode in the same entry （Only one main function, as less wrapper as possible).
+   - https://github.com/rustdesk/rustdesk/discussions/533#discussioncomment-2757147
  - Texture layer rendering YUV directly (next version)
  - Native UI style (next version, still use material design for the first version)
  - Dark theme support
