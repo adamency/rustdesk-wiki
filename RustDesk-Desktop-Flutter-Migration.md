@@ -9,6 +9,8 @@
  - Friendly tray
  - More info (cpu/gpu/network/latency flow chart) on connection window
  - May still use Sciter for win32 support
+   - win32 not supported unofficially yet
+![image](https://user-images.githubusercontent.com/71636191/169973636-64d6131d-3f4f-42f1-b00b-2231786f16e8.png)
  - Whiteboard, Multi-user cursors (like AnyDesk)
 - [x] Bootstrap
  - [@Heap-Hop](https://github.com/Heap-Hop) https://github.com/rustdesk/rustdesk/pull/595
