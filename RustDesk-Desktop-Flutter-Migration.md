@@ -1,3 +1,12 @@
+- [x] Solution
+ - TeamViewer style tab window, each window with a seperate flutter engine.
+ - Command line and Window mode in the same entry.
+ - Texture layer rendering YUV directly (next version)
+ - Native UI style (next version, still use material design for the first version)
+ - Dark theme support
+ - Friendly taskbar
+ - Friendly tray
+ - More info (cpu/gpu/network/latency flow chart) on connection window
 - [x] Bootstrap
  - [@Heap-Hop](https://github.com/Heap-Hop) https://github.com/rustdesk/rustdesk/pull/595
 - [ ] Main Window Draft Version - deadline 2022-05-30
