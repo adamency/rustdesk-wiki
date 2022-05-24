@@ -1,1 +1,6 @@
-RustDesk Desktop Flutter Migration
+- [x] Bootstrap
+ - [@Heap-Hop](https://github.com/Heap-Hop) https://github.com/rustdesk/rustdesk/pull/595
+- [ ] Main Window Draft Version - deadline 2022-05-30
+ - [@Kingtous](https://github.com/Kingtous)
+- [ ] Remote Window Draft Version - deadline 2022-05-30
+ - [@SoLongAndThanksForAllThePizza](https://github.com/SoLongAndThanksForAllThePizza)
