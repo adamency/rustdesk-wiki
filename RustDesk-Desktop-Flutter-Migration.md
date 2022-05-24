@@ -1,6 +1,6 @@
 - [x] Solution
  - TeamViewer style tab window, each window with a seperate flutter engine.
- - Command line and Window mode in the same entry （Only one main function).
+ - Command line and Window mode in the same entry （Only one main function, as less wrapper as possible).
  - Texture layer rendering YUV directly (next version)
  - Native UI style (next version, still use material design for the first version)
  - Dark theme support
