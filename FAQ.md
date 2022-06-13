@@ -20,3 +20,28 @@ By default this is turned off for security, however if wish to allow this you ca
 - On the device you wish to control 
 - Go into the Menu and select Enable direct IP...  
 - On the client you are connecting from you can now input the Local IP address or host name the address box and click connect. 
+
+# hbbs -c,  the configuration file format
+Supper simple format just a=b on each line, a is the name of the option you see from the --help. e.g.
+e.g.
+```
+port=123456
+```
+
+You can also put them in .env file under the same directory of hbbs/hbbr. hbbs/hbbr reads .env file no matter if you specify -c. 
+![image](https://user-images.githubusercontent.com/71636191/173327939-4ed089cc-81bc-416a-a22e-6abc2791cfc4.png)
+
+# Web client
+
+https://rustdesk.com/docs/en/dev/build/web/
+
+http://web.rustdesk.com/ no https for the time being
+
+# Change id, login and web console?
+
+https://github.com/rustdesk/rustdesk-server/issues/22
+
+https://github.com/rustdesk/rustdesk/discussions/570
+
+https://github.com/rustdesk/rustdesk/issues/509 
+
