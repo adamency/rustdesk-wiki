@@ -37,7 +37,7 @@ https://rustdesk.com/docs/en/dev/build/web/
 
 http://web.rustdesk.com/ no https for the time being
 
-# Change id, login and web console?
+# Change id, addressbook/api/login and web console?
 
 https://github.com/rustdesk/rustdesk-server/issues/22
 
