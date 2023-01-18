@@ -48,3 +48,12 @@ https://github.com/rustdesk/rustdesk/issues/509
 # Hardware requirement for RustDesk server.
 The hardware requirements are very low, the minimum configuration of the cloud server is enough, and the CPU and memory requirements are the minimum. Regarding the network size, if the TCP hole punching direct connection fails, the relay traffic will be consumed. The traffic of a relay connection is between 30k-3M/s (1920x1080 screen), depending on the resolution settings and screen update. If it is only for office work demand, the traffic is around 100K/s. 
 
+# Deploy RustDesk server in intranet.
+If you host the server in your intranet with some type of routers, you may have network problem because of NAT hairping,
+
+https://github.com/rustdesk/rustdesk-server/issues/24#issuecomment-1234029480
+
+https://github.com/rustdesk/rustdesk/issues/732#issuecomment-1300514997
+
+https://github.com/rustdesk/rustdesk/issues/732#issuecomment-1319433120
+
