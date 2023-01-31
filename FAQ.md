@@ -8,7 +8,10 @@ You can download RustDesk sever from:
 - https://github.com/rustdesk/rustdesk-server 
 - https://rustdesk.com/server 
 # The server is asking me for a license, where can I get one from? 
-Please ensure you have downloaded the newest release of RustDesk server as licenses are no longer required for the community release. 
+Please ensure you have downloaded the newest release of RustDesk server as licenses are no longer required for the community release.
+
+Some users reported they could not pull latest RustDesk server with docker in some countries.
+https://github.com/rustdesk/rustdesk-server/issues/184
 # What does the server do, why do I need it? 
 - It is primarily used to help your RustDesk clients to find each other. 
 - Once this is done, it helps you try and get a direct connection between them. 
@@ -56,4 +59,9 @@ https://github.com/rustdesk/rustdesk-server/issues/24#issuecomment-1234029480
 https://github.com/rustdesk/rustdesk/issues/732#issuecomment-1300514997
 
 https://github.com/rustdesk/rustdesk/issues/732#issuecomment-1319433120
+
+# X11 error: connection refused (login as root)
+
+https://github.com/rustdesk/rustdesk/issues/2573#issuecomment-1408672281
+
 
