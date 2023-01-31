@@ -72,3 +72,18 @@ Rating: Hard
 Size: 350 hours
 
 Mentor: [Dragon Chen](https://github.com/fufesou) RustDesk member
+
+
+### Video Chat
+
+Skills: Rust, Codecs
+
+Description: We have text chat and audio chat now, video chat is expected by users.
+
+Outcome: Users can have video chat
+
+Rating: Medium
+
+Size: 175 hours
+
+Mentor: [Sunbo](https://github.com/21pages) RustDesk member
