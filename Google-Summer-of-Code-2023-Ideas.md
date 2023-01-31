@@ -1,6 +1,6 @@
-RustDesk project would like to participate in Google Summer of Code 2022.
+RustDesk project would like to participate in Google Summer of Code 2023.
 
-https://github.com/rustdesk/rustdesk/wiki/Google-Summer-of-Code-2022
+https://github.com/rustdesk/rustdesk/wiki/Google-Summer-of-Code-2023
 
 ## Project Ideas
 
@@ -28,20 +28,20 @@ Mentor: [Carrie Chow](https://github.com/rustdesk) RustDesk author
 Skills: Rust, Javascript
 
 Description:
-RustDesk chose Sciter as its Desktop UI SDK. As Tauri turns to be stable, it is time to switch to a more elegant UI SDK. Current RustDesk UI is based on TIScript+html+css, TIScript is a modified version of Javascript. After migration, RustDesk will switch to multiple windows mode with tab window support to have better OS taskbar integration. Each connection keeps UI and logic seperate, logic part runs in seperate process, just like Chrome.
+RustDesk chose Sciter (stable version) and Flutter (nightly build) as its Desktop UI SDK. As Tauri turns to be stable, it is time to switch to a more elegant UI SDK. Current RustDesk UI is based on TIScript+html+css, TIScript is a modified version of Javascript, and we also have an unfinished sciter-js branch.
 
 Outcome: Replace current Sciter sdk with Tauri for Windows/Mac/Linux
 
 Resources:
  - Tauri project: https://github.com/tauri-apps/tauri
  - What is Sciter?: https://sciter.com/
- - Multiple windows issue: https://github.com/rustdesk/rustdesk/issues/293
+ - Sciter-js branch: https://github.com/rustdesk/rustdesk/tree/sciterjs
 
 Rating: Hard
 
 Size: 350 hours
 
-Mentor: [Carrie Chow](https://github.com/rustdesk) RustDesk author, [Heap Chen](https://github.com/Heap-Hop) RustDesk Member
+Mentor: [Kingtous](https://github.com/kingtous) RustDesk Member, [Heap Chen](https://github.com/Heap-Hop) RustDesk Member
 
 ### Whiteboard
 
@@ -53,7 +53,7 @@ Outcome: Users on both side can draw on the screen of the controlled PC.
 
 Resources:
  - Whiteboard in AnyDesk: https://anydesk.com/uk/features/whiteboard
- - Reference project: https://github.com/netless-io/flat
+ - Issue: https://github.com/rustdesk/rustdesk/issues/425
 
 Rating: Hard
 
@@ -61,20 +61,20 @@ Size: 350 hours
 
 Mentor: [Carrie Chow](https://github.com/rustdesk) RustDesk author
 
-### UDP Support
+### WebRTC Support
 
-Skills: Rust, TCP/IP
+Skills: Rust, WebRTC
 
-Description: RustDesk is using TCP hole punching for P2P connection. As we know, QUIC runs over UDP and not TCP, UDP is faster, simpler, and more efficient than TCP. RustDesk seeks to support UDP hole punching for better performance under weak network scenario.
+Description: RustDesk is using TCP hole punching for P2P connection. WebRTC is a more common protocol, WebRTC support make RustDesk more universal, and it can also improve the performance of RustDesk web client.
 
-Outcome: P2P connection over UDP.
+Outcome: RustDesk over WebRTC
 
 Resources:
-- Practical solution: https://github.com/Matrix-Zhang/tokio_kcp
+- https://github.com/webrtc-rs/webrtc
 
-Rating: Medium
+Rating: Hard
 
-Size: 175 hours
+Size: 350 hours
 
 Mentor: [Carrie Chow](https://github.com/rustdesk) RustDesk author
 
