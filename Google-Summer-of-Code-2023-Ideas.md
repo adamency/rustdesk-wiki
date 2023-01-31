@@ -4,25 +4,6 @@ https://github.com/rustdesk/rustdesk/wiki/Google-Summer-of-Code-2023
 
 ## Project Ideas
 
-### Wayland Support
-
-Skills: Rust, C/C++, Linux
-
-Description:
-RustDesk support X11 on Linux, but does not support Wayland yet. Wayland has totally different API for screen capturing and keyboard/mouse input. Wayland has strict permission control, you can only capture screen under the user session. A permission dialog will pop up once you initiates screen capturing, this causes big problem for remote control scenario.
-
-Outcome: RustDesk screen capturing and input control can work on Wayland.
-
-Resources:
- - Discuss on Wayland support: https://github.com/rustdesk/rustdesk/issues/56
- - Initial job done for Wayland, only screen capturing: https://github.com/rustdesk/rustdesk/tree/master/libs/scrap/src/wayland
-
-Rating: Hard
-
-Size: 350 hours
-
-Mentor: [Carrie Chow](https://github.com/rustdesk) RustDesk author
-
 ### Migrate UI from Sciter to Tauri
 
 Skills: Rust, Javascript
@@ -45,7 +26,7 @@ Mentor: [Kingtous](https://github.com/kingtous) RustDesk Member, [Heap Chen](htt
 
 ### Whiteboard
 
-Skills: Rust, Windows/Linux/Mac
+Skills: Rust, Windows / Linux / Mac
 
 Description: Whiteboard is additional collaboration tool while sharing desktop, which enables users write or draw freely on computer screen during presentations.
 
@@ -76,15 +57,15 @@ Rating: Hard
 
 Size: 350 hours
 
-Mentor: [Carrie Chow](https://github.com/rustdesk) RustDesk author
+Mentor: [Heap Chen](https://github.com/Heap-Hop) RustDesk Member
 
-### Copy/Paste file on Linux and Mac
+### Copy / Paste file on Linux and Mac
 
 Skills: Rust, C/C++, Objective-C, Linux/Mac
 
-Description: RustDesk has file copy/paste support under Windows. User can copy file on one side and then paste it on the other side. Current windows implementation is based on FreeRDP.
+Description: RustDesk has file copy / paste support under Windows. User can copy file on one side and then paste it on the other side. Current windows implementation is based on FreeRDP.
 
-Outcome: Users can copy/paste file between local side and remote side on Linux and Mac.
+Outcome: Users can copy / paste file between local side and remote side on Linux and Mac.
 
 Rating: Hard
 
