@@ -64,4 +64,8 @@ https://github.com/rustdesk/rustdesk/issues/732#issuecomment-1319433120
 
 https://github.com/rustdesk/rustdesk/issues/2573#issuecomment-1408672281
 
+# How to update RustDesk server?
+
+https://github.com/techahold/rustdeskinstall/issues/30
+
 
