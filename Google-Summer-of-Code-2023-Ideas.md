@@ -87,3 +87,21 @@ Rating: Medium
 Size: 175 hours
 
 Mentor: [Sunbo](https://github.com/21pages) RustDesk member
+
+### STUN protocol support
+
+Skills: Rust
+
+Description: Both Stun RFC 5389 and Turn RFC 8656/7065 are already defined standards used for the Rendezvous and Relay by many other protocols. Main use cases would be increased resilience of rustdesk due to being able to use more existing servers. Also possible increase performance by users having more server options so able to choose closer servers in some cases.
+
+Outcome: Support STUN protocol.
+
+Rating: Hard
+
+Size: 350 hours
+
+Mentor: [Heap Chen](https://github.com/Heap-Hop) RustDesk Member
+
+Resources:
+ - Ref: https://github.com/miroslavpejic85/p2p
+ - Issue: https://github.com/rustdesk/rustdesk/discussions/3202
