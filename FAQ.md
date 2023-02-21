@@ -112,5 +112,11 @@ https://github.com/techahold/rustdeskinstall/issues/30
       </a>
 </div>
 
+# Connection log on server side.
 
+https://github.com/rustdesk/rustdesk-server/blob/4d6d439b1ad797f8f8741a42672fa46c1503672e/src/rendezvous_server.rs#L608
+You need to enable it via env `RUST_LOG=debug`, e.g.
+```
+RUST_LOG=debug ./hbbs ....
+```
 
