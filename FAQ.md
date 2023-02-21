@@ -68,4 +68,49 @@ https://github.com/rustdesk/rustdesk/issues/2573#issuecomment-1408672281
 
 https://github.com/techahold/rustdeskinstall/issues/30
 
+# About self-hosting setup
+
+- Most users can make it work following the tutorial: https://rustdesk.com/docs/en/self-host/install/
+- This two videos should be helpful. https://www.youtube.com/watch?v=9nzHm3xGz2I and https://www.youtube.com/watch?v=EeFqj23jxMk. Another one in French: https://www.youtube.com/watch?v=J7t32K5--cM
+- Most questions are about Linux and network, which can be Googled and ChatGPTed.
+- Go to [Discord](https://discord.gg/nDceKgxnkV), there may be some nice users help you. Or search in the discord `welcome` channel, there are many users who have asked similar questions. Whenever, search is your best friend.
+-  If you host the server in your intranet with some type of routers, you may have network problem because of NAT hairping, 
+
+>   - https://github.com/rustdesk/rustdesk-server/issues/24#issuecomment-1234029480 
+>   - https://github.com/rustdesk/rustdesk/issues/732#issuecomment-1300514997 
+>   - https://github.com/rustdesk/rustdesk/issues/732#issuecomment-1319433120
+
+- With nginx: https://github.com/rustdesk/rustdesk/issues/835#issuecomment-1162169296
+- arm https://github.com/rustdesk/rustdesk-server/issues/125#issuecomment-1320943098
+- Change id, addressbook/api/login and web console? https://github.com/rustdesk/rustdesk/wiki/FAQ#change-id-addressbookapilogin-and-web-console
+- https://github.com/rustdesk/rustdesk/discussions/2152
+- https://pedja.supurovic.net/setting-up-self-hosted-rustdesk-server-on-windows/
+
+> **Again, the document is open source, modify it if you do not like it, https://github.com/rustdesk/doc.rustdesk.com**
+
+
+
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=9nzHm3xGz2I">
+         <img src="https://img.youtube.com/vi/9nzHm3xGz2I/0.jpg" style="width:100%;">
+      </a>
+</div>
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=EeFqj23jxMk">
+         <img src="https://img.youtube.com/vi/EeFqj23jxMk/0.jpg" style="width:100%;">
+      </a>
+</div>
+
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=9nzHm3xGz2I">
+         <img src="https://img.youtube.com/vi/9nzHm3xGz2I/0.jpg" style="width:100%;">
+      </a>
+</div>
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=PDnqFnnbVHg">
+         <img src="https://img.youtube.com/vi/PDnqFnnbVHg/0.jpg" style="width:100%;">
+      </a>
+</div>
+
+
 
