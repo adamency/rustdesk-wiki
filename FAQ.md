@@ -122,3 +122,7 @@ You need to enable it via env `RUST_LOG=debug`, e.g.
 RUST_LOG=debug ./hbbs ....
 ```
 
+# How does it work?
+
+https://github.com/rustdesk/rustdesk/wiki/How-does-RustDesk-work%3F
+
