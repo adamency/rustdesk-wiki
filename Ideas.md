@@ -1,7 +1,3 @@
-RustDesk project would like to participate in Google Summer of Code 2023.
-
-https://github.com/rustdesk/rustdesk/wiki/Google-Summer-of-Code-2023
-
 ## Project Ideas
 
 ### Migrate UI from Sciter to Tauri
