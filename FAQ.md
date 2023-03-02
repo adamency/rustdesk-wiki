@@ -128,3 +128,11 @@ RUST_LOG=debug ./hbbs ....
 
 https://github.com/rustdesk/rustdesk/wiki/How-does-RustDesk-work%3F
 
+# Access Logs?
+
+Mac: ~/Library/Logs/RustDesk/server/
+Linux: /root/.local/share/logs/RustDesk/server/
+Windows: 
+- Portable: %AppData%\Roaming\RustDesk\log\server\
+- Installed: C:\Windows\ServiceProfiles\LocalService\AppData\Roaming\RustDesk\log\server\
+
