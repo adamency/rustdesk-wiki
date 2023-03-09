@@ -85,8 +85,9 @@ https://github.com/techahold/rustdeskinstall/issues/30
 - With nginx: https://github.com/rustdesk/rustdesk/issues/835#issuecomment-1162169296
 - arm https://github.com/rustdesk/rustdesk-server/issues/125#issuecomment-1320943098
 - Change id, addressbook/api/login and web console? https://github.com/rustdesk/rustdesk/wiki/FAQ#change-id-addressbookapilogin-and-web-console
-- https://github.com/rustdesk/rustdesk/discussions/2152
-- https://pedja.supurovic.net/setting-up-self-hosted-rustdesk-server-on-windows/
+- Windows
+  - https://github.com/rustdesk/rustdesk/discussions/2152
+  - https://pedja.supurovic.net/setting-up-self-hosted-rustdesk-server-on-windows/
 
 > **Again, the document is open source, modify it if you do not like it, https://github.com/rustdesk/doc.rustdesk.com**
 
