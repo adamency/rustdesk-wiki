@@ -88,6 +88,7 @@ https://github.com/techahold/rustdeskinstall/issues/30
 - Windows
   - https://github.com/rustdesk/rustdesk/discussions/2152
   - https://pedja.supurovic.net/setting-up-self-hosted-rustdesk-server-on-windows/
+- firewalls https://www.reddit.com/r/rustdesk/comments/11u5aou/unable_to_connect_ubuntu_machine_to_selfhosted/
 
 > **Again, the document is open source, modify it if you do not like it, https://github.com/rustdesk/doc.rustdesk.com**
 
