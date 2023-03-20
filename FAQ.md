@@ -140,3 +140,5 @@ Windows:
 - Portable: `%AppData%\Roaming\RustDesk\log\server\`
 - Installed: `C:\Windows\ServiceProfiles\LocalService\AppData\Roaming\RustDesk\log\server\`
 
+# direct ip access
+Enable direct IP access from the menu on remote side RustDesk (not enabled by default). Connect to remote by input the ip (where you input ID) , no encryption in this way.
