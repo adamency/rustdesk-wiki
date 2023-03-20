@@ -23,6 +23,7 @@ By default this is turned off for security, however if wish to allow this you ca
 - On the device you wish to control 
 - Go into the Menu and select Enable direct IP...  
 - On the client you are connecting from you can now input the Local IP address or host name the address box and click connect. 
+- the connection is unecrypted, please do not send us issue about this.
 
 # hbbs -c,  the configuration file format
 Supper simple format just a=b on each line, a is the name of the option you see from the --help. e.g.
