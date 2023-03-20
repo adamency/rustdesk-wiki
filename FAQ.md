@@ -16,7 +16,7 @@ https://github.com/rustdesk/rustdesk-server/issues/184
 - It is primarily used to help your RustDesk clients to find each other. 
 - Once this is done, it helps you try and get a direct connection between them. 
 - If this fails and your client and controlled devices cannot talk directly to each other, the relay part of side the server will be used to handle the connection. 
-# I only use RustDesk for a few devices on my local network with no Internet connectivity... Can I still use RustDesk? 
+# I only use RustDesk for a few devices on my local network with no Internet connectivity... Can I still use RustDesk with direct ip access? 
 Yes, you can! 
 
 By default this is turned off for security, however if wish to allow this you can do so by doing steps below: 
@@ -139,6 +139,3 @@ Linux: `/root/.local/share/logs/RustDesk/server/`
 Windows: 
 - Portable: `%AppData%\Roaming\RustDesk\log\server\`
 - Installed: `C:\Windows\ServiceProfiles\LocalService\AppData\Roaming\RustDesk\log\server\`
-
-# direct ip access
-Enable direct IP access from the menu on remote side RustDesk (not enabled by default). Connect to remote by input the ip (where you input ID) , no encryption in this way.
