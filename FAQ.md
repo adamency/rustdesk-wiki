@@ -77,8 +77,7 @@ https://github.com/techahold/rustdeskinstall/issues/30
 - This two videos should be helpful. https://www.youtube.com/watch?v=9nzHm3xGz2I and https://www.youtube.com/watch?v=EeFqj23jxMk. Another one in French: https://www.youtube.com/watch?v=J7t32K5--cM
 - Most questions are about Linux and network, which can be Googled and ChatGPTed.
 - Go to [Discord](https://discord.gg/nDceKgxnkV), there may be some nice users help you. Or search in the discord `welcome` channel, there are many users who have asked similar questions. Whenever, search is your best friend.
-- ipv6 https://github.com/rustdesk/rustdesk/discussions/3879
--  If you host the server in your intranet with some type of routers, you may have network problem because of NAT hairping, 
+- If you host the server in your intranet with some type of routers, you may have network problem because of NAT hairping, 
 
 >   - https://github.com/rustdesk/rustdesk-server/issues/24#issuecomment-1234029480 
 >   - https://github.com/rustdesk/rustdesk/issues/732#issuecomment-1300514997 
