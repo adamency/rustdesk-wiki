@@ -1,4 +1,4 @@
-**Only tested on Ubuntu for now.**
+# **Only tested on Ubuntu for now.**
 
 Prerequirements:
 ```bash
