@@ -35,3 +35,8 @@ TODOs:
 - [ ] Do not show "Connection Error" on logout.
 
 https://github.com/rustdesk/rustdesk/pull/3902#issue-1651369085
+
+# Alternative solutions
+- Intel virtual display: https://github.com/rustdesk/rustdesk/issues/59#issuecomment-1494257375
+- Fake / dummy hdmi https://github.com/rustdesk/rustdesk/issues/59#issuecomment-1494275098 https://github.com/rustdesk/rustdesk/issues/59#issuecomment-1162817430
+- Configure dummy display yourself, https://github.com/rustdesk/rustdesk/issues/3592
