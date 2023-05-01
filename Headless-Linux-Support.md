@@ -1,5 +1,7 @@
 # **Only tested on Ubuntu for now.**
 
+RustDesk 1.2 (nightly build)
+
 Prerequirements:
 ```bash
 # Only support gnome desktop. https://www.gnome.org
