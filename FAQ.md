@@ -141,3 +141,6 @@ Linux: `/root/.local/share/logs/RustDesk/server/`
 Windows: 
 - Portable: `%AppData%\Roaming\RustDesk\log\server\`
 - Installed: `C:\Windows\ServiceProfiles\LocalService\AppData\Roaming\RustDesk\log\server\`
+
+# Wayland
+https://github.com/rustdesk/rustdesk/issues/4276#issuecomment-1537105758
