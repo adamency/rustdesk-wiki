@@ -144,3 +144,7 @@ Windows:
 
 # Wayland
 https://github.com/rustdesk/rustdesk/issues/4276#issuecomment-1537105758
+
+# Change default options
+![image](https://github.com/rustdesk/rustdesk/assets/71636191/68d1aa91-d59c-43ac-bd6e-dca6dbfe7c34)
+
