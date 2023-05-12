@@ -155,6 +155,7 @@ https://github.com/rustdesk/rustdesk/issues/4280#issuecomment-1543618744
 
 # Config client for self-hosting
 https://rustdesk.com/docs/en/self-host/client/
+
 https://rustdesk.com/docs/en/self-host/hardcode-settings/
 
 
