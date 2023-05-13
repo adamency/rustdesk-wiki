@@ -55,6 +55,8 @@ The hardware requirements are very low, the minimum configuration of the cloud s
 # Deploy RustDesk server in intranet.
 If you host the server in your intranet with some type of routers, you may have network problem because of NAT hairping,
 
+https://www.reddit.com/r/rustdesk/comments/13fkdyd/comment/jjvm6j1/?utm_source=share&utm_medium=web2x&context=3
+
 https://github.com/rustdesk/rustdesk-server/issues/24#issuecomment-1234029480
 
 https://github.com/rustdesk/rustdesk/issues/732#issuecomment-1300514997
