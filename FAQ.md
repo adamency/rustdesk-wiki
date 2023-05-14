@@ -67,6 +67,8 @@ https://www.reddit.com/r/rustdesk/comments/1174mgw/comment/j9e9avt/?context=3
 
 https://github.com/rustdesk/rustdesk-server/issues/200#issuecomment-1543710510
 
+https://github.com/rustdesk/rustdesk-server/issues/134#issuecomment-1303437173
+
 # X11 error: connection refused (login as root)
 
 https://github.com/rustdesk/rustdesk/issues/2573#issuecomment-1408672281
