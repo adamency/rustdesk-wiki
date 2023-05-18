@@ -30,6 +30,7 @@ Outcome: Users on both side can draw on the screen of the controlled PC.
 
 Resources:
  - Whiteboard in AnyDesk: https://anydesk.com/uk/features/whiteboard
+- https://github.com/apache/openmeetings
  - Issue: https://github.com/rustdesk/rustdesk/issues/425
 
 Rating: Hard
