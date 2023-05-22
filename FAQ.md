@@ -16,6 +16,12 @@ Please ensure you have downloaded the newest release of RustDesk server as licen
 
 Some users reported they could not pull latest RustDesk server with docker in some countries.
 https://github.com/rustdesk/rustdesk-server/issues/184
+
+# Config client for self-hosting
+https://rustdesk.com/docs/en/self-host/client/
+
+https://rustdesk.com/docs/en/self-host/hardcode-settings/
+
 # What does the server do, why do I need it? 
 - It is primarily used to help your RustDesk clients to find each other. 
 - Once this is done, it helps you try and get a direct connection between them. 
@@ -160,10 +166,4 @@ https://github.com/rustdesk/rustdesk/issues/4276#issuecomment-1537105758
 
 # No sound
 https://github.com/rustdesk/rustdesk/issues/4280#issuecomment-1543618744
-
-# Config client for self-hosting
-https://rustdesk.com/docs/en/self-host/client/
-
-https://rustdesk.com/docs/en/self-host/hardcode-settings/
-
 
