@@ -8,8 +8,9 @@ The community releases are free of charge if you wish to self host, no license i
 - There's a guide here: https://rustdesk.com/docs/en/self-host/ 
 # Where can I download RustDesk Sever?
 You can download RustDesk sever from: 
-- https://github.com/rustdesk/rustdesk-server 
-- https://rustdesk.com/server 
+- https://github.com/rustdesk/rustdesk-server
+- [Docker Hub](https://registry.hub.docker.com/u/rustdesk)
+
 # The server is asking me for a license, where can I get one from? 
 Please ensure you have downloaded the newest release of RustDesk server as licenses are no longer required for the community release.
 
