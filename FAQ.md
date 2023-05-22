@@ -1,3 +1,6 @@
+# How deos RustDesk work?
+https://github.com/rustdesk/rustdesk/wiki/How-does-RustDesk-work%3F
+
 # How much does the community version of RustDesk server cost? 
 The community releases are free of charge if you wish to self host, no license is required. 
 # Can I host my own RustDesk server? 
