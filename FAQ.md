@@ -79,6 +79,8 @@ https://github.com/rustdesk/rustdesk-server/issues/200#issuecomment-1543710510
 
 https://github.com/rustdesk/rustdesk-server/issues/134#issuecomment-1303437173
 
+https://github.com/rustdesk/rustdesk/discussions/4486 Ubuntu Firewall settings
+
 # X11 error: connection refused (login as root)
 
 https://github.com/rustdesk/rustdesk/issues/2573#issuecomment-1408672281
