@@ -159,6 +159,8 @@ Windows:
 - Installed: `C:\Windows\ServiceProfiles\LocalService\AppData\Roaming\RustDesk\log\server\`
 
 # Wayland
+Wayland is experimentally supported, but still has some limitations.
+
 https://github.com/rustdesk/rustdesk/issues/4276#issuecomment-1537105758
 
 # Change default options
