@@ -177,3 +177,7 @@ https://ko-fi.com/rustdesk
 # Why does self-hosting server need to configure a public key?
 
 https://github.com/rustdesk/rustdesk/discussions/966#discussioncomment-6017364
+
+# Hide connection popup
+
+https://github.com/rustdesk/rustdesk/discussions/4424
