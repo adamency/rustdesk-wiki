@@ -1,4 +1,4 @@
-# How deos RustDesk work?
+# How does RustDesk work?
 https://github.com/rustdesk/rustdesk/wiki/How-does-RustDesk-work%3F
 
 # How much does the community version of RustDesk server cost? 
