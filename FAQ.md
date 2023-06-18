@@ -181,3 +181,7 @@ https://github.com/rustdesk/rustdesk/discussions/966#discussioncomment-6017364
 # Hide connection popup
 
 https://github.com/rustdesk/rustdesk/discussions/4424
+
+# white screen on windows
+
+https://github.com/rustdesk/rustdesk/issues/418#issuecomment-1595882547
