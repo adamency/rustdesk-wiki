@@ -87,6 +87,11 @@ https://github.com/rustdesk/rustdesk/issues/2573#issuecomment-1408672281
 
 https://github.com/techahold/rustdeskinstall/issues/30
 
+# Some RustDesk Server installer
+https://github.com/techahold/rustdeskinstall
+
+https://github.com/elico/rustdesk-ansible-installer
+
 # About self-hosting setup
 
 - Most users can make it work following the tutorial: https://rustdesk.com/docs/en/self-host/install/
@@ -185,8 +190,3 @@ https://github.com/rustdesk/rustdesk/discussions/4424
 # White screen on windows
 
 https://github.com/rustdesk/rustdesk/issues/418#issuecomment-1595882547
-
-# Some RustDesk Server installer
-https://github.com/techahold/rustdeskinstall
-
-https://github.com/elico/rustdesk-ansible-installer
