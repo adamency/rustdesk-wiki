@@ -190,8 +190,6 @@ https://github.com/rustdesk/rustdesk/discussions/4424
 # White screen on windows
 
 https://github.com/rustdesk/rustdesk/issues/418#issuecomment-1595882547
-<img width="267" alt="image" src="https://github.com/rustdesk/rustdesk/assets/71636191/c5baf4e6-0fc8-4a36-aed3-19497bad4672">
-
 
 # Nginx stream proxy
 
