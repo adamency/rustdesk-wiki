@@ -6,8 +6,8 @@ The community releases are free of charge if you wish to self host, no license i
 # Can I host my own RustDesk server? 
 - Yes, you can host your own RustDesk server 
 - There's a guide here: https://rustdesk.com/docs/en/self-host/ 
-# Where can I download RustDesk Sever?
-You can download RustDesk sever from: 
+# Where can I download RustDesk Server?
+You can download RustDesk server from: 
 - https://github.com/rustdesk/rustdesk-server
 - [Docker Hub](https://registry.hub.docker.com/u/rustdesk)
 
