@@ -194,3 +194,6 @@ https://github.com/rustdesk/rustdesk/issues/418#issuecomment-1595882547
 # Nginx stream proxy
 
 https://github.com/rustdesk/rustdesk-server/issues/265
+
+# Managed vs unmanaged
+https://www.reddit.com/r/rustdesk/comments/14y6u8c/looking_into_rustdesk_but_have_a_question/
