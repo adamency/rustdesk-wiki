@@ -198,7 +198,7 @@ https://github.com/rustdesk/rustdesk-server/issues/265
 # Managed vs unmanaged
 https://www.reddit.com/r/rustdesk/comments/14y6u8c/looking_into_rustdesk_but_have_a_question/
 
-# keyboard mapping mode
+# Keyboard translation modes
 
 - Map 1:1
 
