@@ -197,3 +197,22 @@ https://github.com/rustdesk/rustdesk-server/issues/265
 
 # Managed vs unmanaged
 https://www.reddit.com/r/rustdesk/comments/14y6u8c/looking_into_rustdesk_but_have_a_question/
+
+# keyboard mapping mode
+
+- Map 1:1
+
+With "Map 1:1", all keys are mapped from the local to the remote keyboard based on their position. For example, the key "q" on a local QWERTY keyboard will transmit an "a" character if connected to a remote device with an AZERTY keyboard.
+
+This mode is not recommended for office work but it can be useful if the remote device uses specialty software to map macros to specific keys.
+
+
+- Translate
+
+When "Translate" is selected, all keys will be transmitted to the remote endpoint as if the local keyboard layout is active on the remote device.
+
+However, this layout mode may cause problems with certain programs such as video games as they use scan code to process the key presses.
+
+- Legacy 
+
+This mode is for compatibility with RustDesk <= 1.1.9.
