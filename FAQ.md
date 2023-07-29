@@ -200,19 +200,33 @@ https://www.reddit.com/r/rustdesk/comments/14y6u8c/looking_into_rustdesk_but_hav
 
 # Keyboard translation modes
 
-- Map 1:1
+<img width="158" alt="image" src="https://github.com/rustdesk/rustdesk/assets/71636191/44cf2b80-de97-4ea3-ba1d-73acedb6c636">
+
+
+- Map mode
 
 With "Map 1:1", all keys are mapped from the local to the remote keyboard based on their position. For example, the key "q" on a local QWERTY keyboard will transmit an "a" character if connected to a remote device with an AZERTY keyboard.
 
 This mode is not recommended for office work but it can be useful if the remote device uses specialty software to map macros to specific keys.
 
 
-- Translate
+- Translate mode
 
 When "Translate" is selected, all keys will be transmitted to the remote endpoint as if the local keyboard layout is active on the remote device.
 
 However, this layout mode may cause problems with certain programs such as video games as they use scan code to process the key presses.
 
-- Legacy 
+- Legacy mode
 
 This mode is for compatibility with RustDesk <= 1.1.9.
+
+# Force relay
+
+Some guys have the connection problem when you use the desktop/mobile client, but not with web client. That's because the web client always use relay for connection. You can add the suffix '/r' to the remote ID.
+
+<img width="295" alt="image" src="https://github.com/rustdesk/rustdesk/assets/71636191/98d601ea-f84a-447e-a93b-f48a07850796">
+
+or 
+
+![image](https://github.com/rustdesk/rustdesk/assets/71636191/e5df3d73-6656-43ad-ba7e-557e7a4873ed)
+
