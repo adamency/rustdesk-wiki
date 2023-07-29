@@ -234,3 +234,7 @@ or
 
 ![image](https://github.com/rustdesk/rustdesk/assets/71636191/e5df3d73-6656-43ad-ba7e-557e7a4873ed)
 
+# Headless Linux Support
+
+https://github.com/rustdesk/rustdesk/wiki/Headless-Linux-Support
+
