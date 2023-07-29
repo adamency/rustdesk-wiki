@@ -2,6 +2,11 @@
 
 RustDesk 1.2 (nightly build)
 
+**Diabled by default.**
+
+![image](https://github.com/rustdesk/rustdesk/assets/71636191/21675640-efba-406d-874d-58713449e099)
+
+
 Prerequirements:
 ```bash
 # Only support gnome desktop. https://www.gnome.org
