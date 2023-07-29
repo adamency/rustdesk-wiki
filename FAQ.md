@@ -198,7 +198,7 @@ https://github.com/rustdesk/rustdesk-server/issues/265
 # Managed vs unmanaged
 https://www.reddit.com/r/rustdesk/comments/14y6u8c/looking_into_rustdesk_but_have_a_question/
 
-# Keyboard translation modes
+# Keyboard translation modes (RustDesk >= 1.2.0)
 
 <img width="158" alt="image" src="https://github.com/rustdesk/rustdesk/assets/71636191/44cf2b80-de97-4ea3-ba1d-73acedb6c636">
 
@@ -220,7 +220,7 @@ However, this layout mode may cause problems with certain programs such as video
 
 This mode is for compatibility with RustDesk <= 1.1.9.
 
-# Force relay
+# Force relay (RustDesk >= 1.2.0)
 
 Some users experience connection problems when using the desktop or mobile client, but not when using the web client. This is because the web client always uses a relay for connection. To resolve the issue, you can add the suffix '/r' to the remote ID.
 
