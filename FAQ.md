@@ -222,7 +222,7 @@ This mode is for compatibility with RustDesk <= 1.1.9.
 
 # Force relay
 
-Some guys have the connection problem when you use the desktop/mobile client, but not with web client. That's because the web client always use relay for connection. You can add the suffix '/r' to the remote ID.
+Some users experience connection problems when using the desktop or mobile client, but not when using the web client. This is because the web client always uses a relay for connection. To resolve the issue, you can add the suffix '/r' to the remote ID.
 
 <img width="295" alt="image" src="https://github.com/rustdesk/rustdesk/assets/71636191/98d601ea-f84a-447e-a93b-f48a07850796">
 
