@@ -238,3 +238,6 @@ or
 
 https://github.com/rustdesk/rustdesk/wiki/Headless-Linux-Support
 
+# Can not open issue on Mac
+https://github.com/rustdesk/rustdesk/discussions/5631#discussioncomment-6943538
+
