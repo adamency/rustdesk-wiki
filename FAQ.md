@@ -163,6 +163,11 @@ Windows:
 - Portable: `%AppData%\Roaming\RustDesk\log\server\`
 - Installed: `C:\Windows\ServiceProfiles\LocalService\AppData\Roaming\RustDesk\log\server\`
 
+Android (Available in V1.2.4): 
+
+![image](https://github.com/rustdesk/rustdesk/assets/71636191/fe3fe790-f91e-421b-8a10-cecbd40d86fc)
+
+
 # Wayland
 Wayland is experimentally supported in nightly build (1.2), but with some limitations.
 
