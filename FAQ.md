@@ -249,3 +249,6 @@ https://github.com/rustdesk/rustdesk/discussions/5631#discussioncomment-6943538
 # Mac input/record permission
 https://github.com/rustdesk/rustdesk/issues/3261#issuecomment-1768000251
 
+# Performance issue on win11
+https://www.reddit.com/r/rustdesk/comments/17ajz0x/windows_11_and_remote_desktop_performance_is/
+
