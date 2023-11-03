@@ -155,6 +155,8 @@ https://github.com/rustdesk/rustdesk/wiki/How-does-RustDesk-work%3F
 
 # Access Logs?
 
+> Our free public server does not persist access log yet.
+
 Mac: `~/Library/Logs/RustDesk/server/`
 
 Linux: `/root/.local/share/logs/RustDesk/server/`
