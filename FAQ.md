@@ -167,6 +167,9 @@ Windows:
 
 Android (Available in V1.2.4)
 
+![image](https://github.com/rustdesk/rustdesk/assets/71636191/ce224ff8-16cf-4d7e-9277-c106c08a927a)
+
+
 # Wayland
 Wayland is experimentally supported in nightly build (1.2), but with some limitations.
 
