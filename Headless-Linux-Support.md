@@ -1,16 +1,22 @@
-# **Only tested on Ubuntu for now.**
 
-RustDesk 1.2 (nightly build)
+## Rustdesk supports Dummy Monitors on Xorg
 
-**Diabled by default.**
+Rustdesk has been [made compatible](https://github.com/rustdesk/rustdesk/pull/3902) and tested to work with the virtual Xorg driver [`xf86-video-dummy`](https://gitlab.freedesktop.org/xorg/driver/xf86-video-dummy) used to create dummy displays for headless server with graphical access.
 
-![image](https://github.com/rustdesk/rustdesk/assets/71636191/21675640-efba-406d-874d-58713449e099)
+It is now enabled automatically, so there is no setting to activate within Rustdesk. Simply install it normally on your system using X11 with `xf86-video-dummy` driver and a "dummy" monitor.
 
+Linux Distributions successfully tested:
+- **Ubuntu**
+- **Arch Linux**
+
+Desktop Environment/Window Managers sucessfully tested:
+- **Gnome**
+- **i3**
+
+xfce4 may be supported.
 
 Prerequirements:
 ```bash
-# Only support gnome desktop. https://www.gnome.org
-# xfce4 may be supported.
 
 # for Ubuntu
 $ sudo apt install ubuntu-desktop
@@ -25,6 +31,7 @@ $ sudo yum install xorg-x11-drv-dummy
 $ pacman -S xorg xorg-server xf86-video-dummy
 $ pacman -S gnome
 
+#Create dummy monitor in Xorg config
 ```
 
 Steps
